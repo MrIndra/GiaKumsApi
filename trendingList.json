@@ -1,0 +1,19 @@
+const trends = [
+    { title: "", iconClass: "bx-copy-alt", description: "Samsung Smartphones" },
+    { title: "", iconClass: "bx-archive-in", description: "OPPO Smartphones" },
+    { title: "", iconClass: "bx-purchase-tag-alt", description: "Xiaomi Smartphones" },
+    { title: "", iconClass: "bx-copy-alt", description: "Apple Smartphones" },
+    { title: "", iconClass: "bx-copy-alt", description: "VIVO Smartphones" },
+    { title: "", iconClass: "bx-archive-in", description: "HP Laptops" },
+    { title: "", iconClass: "bx-purchase-tag-alt", description: "Mitsubishi Air Conditioners" },
+    { title: "", iconClass: "bx-copy-alt", description: "Apple Laptops" },
+    { title: "", iconClass: "bx-archive-in", description: "Huawei Smartphones" },
+    { title: "", iconClass: "bx-copy-alt", description: "Samsung LED TVs" },
+    { title: "", iconClass: "bx-archive-in", description: "LG OLED TVs" },
+    { title: "", iconClass: "bx-purchase-tag-alt", description: "DELL Laptops" },
+    { title: "", iconClass: "bx-copy-alt", description: "ASUS Laptops" },
+    { title: "", iconClass: "bx-archive-in", description: "Samsung Tablets" },
+    { title: "", iconClass: "bx-purchase-tag-alt", description: "Sony LED TVs" },
+    { title: "", iconClass: "bx-copy-alt", description: "Nokia Smartphones" },
+    { title: "", iconClass: "bx-archive-in", description: "Canon DSLR Cameras" }
+  ]
