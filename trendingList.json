@@ -1,4 +1,4 @@
-const trends = [
+[
     { title: "", iconClass: "bx-copy-alt", description: "Samsung Smartphones" },
     { title: "", iconClass: "bx-archive-in", description: "OPPO Smartphones" },
     { title: "", iconClass: "bx-purchase-tag-alt", description: "Xiaomi Smartphones" },
